@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd">
+   <Document>
+      <name>Zeichnung</name>
+      <Placemark id="marker_1700732744444">
+         <ExtendedData>
+            <Data name="type">
+               <value>marker</value>
+            </Data>
+         </ExtendedData>
+         <name>Hof Talegg im Tösstal</name>
+         <description>Hier im wunderschönen Tösstal haben wir die Reitschule. Ich kenne die Familie welche hier wohnen.</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>https://api3.geo.admin.ch/color/255,0,255/marker-24@2x.png</href>
+                  <gx:w>48</gx:w>
+                  <gx:h>48</gx:h>
+               </Icon>
+               <hotSpot x="24" y="4.799999999999997" xunits="pixels" yunits="pixels" />
+            </IconStyle>
+            <LabelStyle>
+               <color>ff0000ff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>8.936565663915381,47.349690080505646</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="marker_1700732872865">
+         <ExtendedData>
+            <Data name="type">
+               <value>marker</value>
+            </Data>
+         </ExtendedData>
+         <name>Bahnhof Steg</name>
+         <description>Jeden Tag laufe ich von mir Zuhause aus hier hin.&lt;a target="_blank" href="https://de.wikipedia.org/wiki/Steg_im_T%C3%B6sstal"&gt;Mehr dazu ...&lt;/a&gt;</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>https://api3.geo.admin.ch/color/0,255,0/marker-24@2x.png</href>
+                  <gx:w>48</gx:w>
+                  <gx:h>48</gx:h>
+               </Icon>
+               <hotSpot x="24" y="4.799999999999997" xunits="pixels" yunits="pixels" />
+            </IconStyle>
+            <LabelStyle>
+               <color>ff0000ff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>8.9322985479319,47.35393310006533</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>
